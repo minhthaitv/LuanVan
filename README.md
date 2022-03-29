@@ -1,5 +1,4 @@
 # Tomoto detection by Retinanet
-**Tên project: Phát hiện cà chua trực tuyến
 
 --------Các công đoạn huấn luyện ----------------
 
