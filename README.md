@@ -37,20 +37,22 @@ Roboflow.
 Object Detector rồi đợi kết quả huấn luyện.
 
 --------Các công đoạn chạy đánh giá ----------------
-**Giới thiệu tóm tắt:
+
+
+#Giới thiệu tóm tắt:
  - Sử dụng thư viện tensorflow cùng với kiến
 trúc mạng học sâu retinanet để phát hiện quả
 cà chua trong video hoặc trực tuyến bằng cách 
 phát hiện cà chua trên từng khung hình.
 
-** Điều kiện tiên quyết: 
+# Điều kiện tiên quyết: 
  - Google colab (có GPU) để chạy code.
  - Google drive để lưu dữ liệu input/output.
  - Có video để nhận diện cà chua.
  - Tải thư mục training_demo để nhận trọng số đã được huấn luyện 
    (để đúng tên training_demo và đường dẫn /content/gdrive/My\ Drive/training_demo).
 
-** Các bước thực hiện code:
+# Các bước thực hiện code:
  1. Chạy hết code cài đặt thư viện phần #Install
 TensorFlow2 Object Detection Dependencies và 
 bỏ qua phần #Prepare Tensorflow 2 Object 
