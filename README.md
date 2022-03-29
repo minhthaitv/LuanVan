@@ -2,6 +2,7 @@
 **Tên project: Phát hiện cà chua trực tuyến
 
 --------Các công đoạn huấn luyện ----------------
+
 #1: Chú thích ảnh bằng LabelImg:
 **Link tải: https://github.com/tzutalin/labelImg
  - B1: Tạo thư mục Picture trong thư mục chính,
