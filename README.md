@@ -1,5 +1,7 @@
 # Tomoto detection by Retinanet
 
+![alt text](https://github.com/minhthaitv/Tomato-Detection/blob/master/Dataset/tomato.png?raw=true)
+
 --------Các công đoạn huấn luyện ----------------
 
 #1: Chú thích ảnh bằng LabelImg:
